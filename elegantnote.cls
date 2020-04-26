@@ -548,3 +548,8 @@
     keywords},
   frame=none,
   tabsize=2}
+
+% some more quality of life commands
+\newcommand{\R}{\ensuremath{\mathcal{R}}}
+\newcommand{\inner}[2]{\ensuremath{\langle{#1},{#2}\rangle}}
+\usepackage{physics}
